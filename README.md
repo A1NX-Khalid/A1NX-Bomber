@@ -34,6 +34,12 @@ cd A1NX-Bomber
 python Kbomb.py
 ```
 
+## Important:To Access You Need Username & PassWord
+
+<li>Username =A1NX</li>
+
+<li>Password =AK</li>
+
 ## Note:
 <li>This Tool Is Only For Educational Purpose</li>
 <li>Khalid Mahmud Will Never Be Responsible For Any Misuse</li>
