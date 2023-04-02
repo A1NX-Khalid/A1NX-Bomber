@@ -41,7 +41,7 @@ python Kbomb.py
 
 ## Contact :
 For Any Help or Suggestions, Contact With Us:
-<li> Via <a href="mailto: khalidmahmud101206@gmail.com">Email</a>
+<li> Via <a href="https://t.me/KHALID_MODZ">TELEGRAM</a>
 
 
 # Screenshots:
