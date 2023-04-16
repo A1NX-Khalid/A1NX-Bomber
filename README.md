@@ -31,7 +31,7 @@ pkg install git -y
 pip install requests
 git clone https://github.com/A1NX-Khalid/A1NX-Bomber
 cd A1NX-Bomber
-python Kbomb.py
+python Abomb.py
 ```
 
 ## Important:To Access You Need Username & PassWord
